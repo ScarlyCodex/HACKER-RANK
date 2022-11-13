@@ -1,0 +1,4 @@
+3
+Not enough items in the machine
+86
+Not enough coins
